@@ -1,0 +1,8 @@
+public class Call {
+	
+	static double priceForAminute=0.1;
+	String caller;
+	String reciever;
+	int duration;
+
+}
